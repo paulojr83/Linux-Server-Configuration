@@ -30,7 +30,7 @@
   * Create a new database user named catalog that has limited permissions to your catalog application database.
   12. Install git.
 
-Deploy the Item Catalog project.
+### Deploy the Item Catalog project.
   13. Clone and setup your Item Catalog project from the Github repository you created earlier in this Nanodegree program.
   14. Set it up in your server so that it functions correctly when visiting your server’s IP address in a browser. Make sure that your .git directory is not publicly accessible via a browser!
   
